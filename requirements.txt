@@ -1,0 +1,8 @@
+# Core: Python 3.10+ standard library only (developed on 3.13).
+# Nothing below is required for sender.py / receiver.py / gui.py / tests.
+
+# Optional - benchmark charts only:
+matplotlib>=3.5
+
+# Optional - screenshot capture helper (capture_screens.py) only:
+pillow>=9.0
